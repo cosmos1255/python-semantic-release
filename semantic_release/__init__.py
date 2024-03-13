@@ -23,7 +23,7 @@ from semantic_release.version import (
     tags_and_versions,
 )
 
-__version__ = "9.1.1"
+__version__ = "1.0.0"
 
 
 def setup_hook(argv: list[str]) -> None:
